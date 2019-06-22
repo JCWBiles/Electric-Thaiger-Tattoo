@@ -46,6 +46,21 @@ header {
 
 .footer-container {}
 
+footer {
+    background-color: #525252;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
+#footer-details {
+    padding: 20px;
+}
+
+i {
+    padding-right: 10px;
+}
+
 .Note {
     font-family: "Nunito", sans-serif;
     font-weight: 700;
