@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap:100,200,300,400,500,600,700|Nunito:100,200,300,400,500,600,700');
+/* I have imported the font I want here in CSS to save repetion. I put it here the once and it will save me putting it in every html file */
+/*I have chosen Raleway as it is angular enough to reflect/mirror the lightening bolts but soft enough to welcome you to the site.
+I have chosen Nunito as it is a soft compliment towards Raleway*/
+
+/*---------------------------------------------------heading*/
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url("../images/logos/yathaiger-black-bg-none.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 200px;
+    transition: all .5s ease-in-out;
+    /* the above line - a little bit of animation for when the image is loading */
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    /* the above 2 lines - need to add the broswer prefixes & vendor prefixes (-moz- & -webkit-) to make sure it works in all broswers */
+}
+
+.header-container {
+    padding-left: 0;
+    padding-right: 0;
+    /* this is so the header container which houses the logo and navbar fills the screen horizontally */
+    font-family: "Raleway", sans-serif;
+    font-weight: 100;
+}
+
+/*---------------------------------------------------callout*/
+
+.callout-container {}
+
+/*---------------------------------------------------about*/
+
+.about-container {}
+
+/*---------------------------------------------------quotes*/
+
+.quotes-container {}
+
+/*---------------------------------------------------footer*/
+
+.footer-container {}
+
+.Note {
+    font-family: "Nunito", sans-serif;
+    font-weight: 700;
+    background-color: orange;
+}
+
+/*---------------------------------------------------next*/
+/*---------------------------------------------------next*/
