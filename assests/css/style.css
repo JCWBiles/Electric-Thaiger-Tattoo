@@ -1,5 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap:100,200,300,400,500,600,700|Nunito:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway&display=swap:100,200,300,400,500,600,700|Nunito&display=swap:100,200,300,400,500,600,700');
 /* I have imported the font I want here in CSS to save repetion. I put it here the once and it will save me putting it in every html file */
+
 /*I have chosen Raleway as it is angular enough to reflect/mirror the lightening bolts but soft enough to welcome you to the site.
 I have chosen Nunito as it is a soft compliment towards Raleway*/
 
@@ -32,7 +33,81 @@ header {
 
 /*---------------------------------------------------callout*/
 
-.callout-container {}
+.callout-container {
+    height: 100vh;
+
+    background: url("../images/welcome/ya-jumbotron.jpg") no-repeat bottom left fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: relative;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+/*---------------------------------------------------jumbotron*/
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-header {
+    color: #628cb7;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: #000 0px 0px 1px;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 30px;
+    font-family: "Raleway", sans-serif;
+}
+
+.jumbotron .lead {
+    font-family: "Nunito", sans-serif;
+    font-size: 1.40rem;
+    font-weight: 300;
+    color: #b4b9bd;
+}
+
+.jumbotron small {
+    font-size: 90%;
+    font-weight: 500;
+    color: White;
+}
+
+/*---------------------------------------------------buttons*/
+
+.btn--cta {
+    font-weight: bold;
+    border-radius: 23px;
+    width: 160px;
+}
+
+.btn--teal {
+    color: white;
+    background-color: #07a5a5;
+    border-color: #07a5a5;
+}
+
+.btn--teal:hover,
+.btn--teal:active,
+.btn--teal:focus,
+.btn--teal:active:focus {
+    background-color: #088484;
+    border-color: #088484;
+}
 
 /*---------------------------------------------------about*/
 
@@ -72,4 +147,5 @@ i {
 }
 
 /*---------------------------------------------------next*/
+
 /*---------------------------------------------------next*/
