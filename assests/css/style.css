@@ -109,6 +109,23 @@ header {
     border-color: #088484;
 }
 
+/*---------------------------------------------------block dividers*/
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+}
+
+.block-divider--teal {
+    background-color: #07a5a5;
+}
+
+.block-divider--logo {
+    background: url("../images/logos/yathaiger2-black-bg-none.png");
+}
+
 /*---------------------------------------------------about*/
 
 .about-container {}
