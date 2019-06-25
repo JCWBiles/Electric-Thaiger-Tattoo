@@ -123,7 +123,8 @@ header {
 }
 
 .block-divider--logo {
-    background: url("../images/logos/yathaiger2-black-bg-none.png");
+    content: url("../images/logos/yathaiger2-black-bg-none.png");
+    min-height: 50px;
 }
 
 /*---------------------------------------------------about*/
@@ -136,7 +137,9 @@ header {
 
 /*---------------------------------------------------footer*/
 
-.footer-container {}
+.footer-container {
+    padding-top: 12px;
+}
 
 footer {
     background-color: #525252;
