@@ -1,3 +1,7 @@
+git remote add origin https://github.com/JCWBiles/Electric-Thaiger-Tattoo.git
+
+git push -u origin master
+
 # Electric Thaiger - Milestone 1
 
 I am making a new website for the Electric Thaiger Tattoo studio in Bromley, Kent, London.

@@ -154,13 +154,14 @@ header {
 
 .about-container {
     font-family: "Nunito", sans-serif;
-    margin: 10px 0;
+    margin: 20px 0;
 }
 
 /*---------------------------------------------------quotes*/
 
 .quotes-container {
     font-family: "Nunito", sans-serif;
+    margin: 20px 0;
 }
 
 /*---------------------------------------------------footer*/
@@ -198,7 +199,7 @@ i {
 
 /*---------------------------------------------------next*/
 
-.content-container {
+/* .content-container {
     padding-top: 75px;
     padding-bottom: 75px;
-}
+} */
