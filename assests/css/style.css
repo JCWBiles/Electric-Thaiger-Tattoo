@@ -116,15 +116,26 @@ header {
     height: 5px;
     border: 0;
     background-color: #444;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .block-divider--teal {
     background-color: #07a5a5;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .block-divider--logo {
-    content: url("../images/logos/yathaiger2-black-bg-none.png");
-    min-height: 50px;
+    background: url("../images/logos/yathaiger2-black-bg-none.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 80px;
 }
 
 /*---------------------------------------------------about*/
