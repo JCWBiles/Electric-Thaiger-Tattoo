@@ -89,8 +89,18 @@ header {
 
 /*---------------------------------------------------modal*/
 
+.modal-content {
+    font-family: "Nunito", sans-serif;
+    background-color: rgb(79, 206, 206);
+}
+
 .modal-header {
     display: inline-block;
+    font-weight: 300;
+}
+
+.modal-title {
+    font-weight: 200;
 }
 
 /*---------------------------------------------------buttons*/
@@ -99,6 +109,7 @@ header {
     font-weight: bold;
     border-radius: 23px;
     width: 160px;
+    font-family: "Raleway", sans-serif;
 }
 
 .btn--teal {
@@ -204,8 +215,3 @@ i {
 /*---------------------------------------------------next*/
 
 /*---------------------------------------------------next*/
-
-/* .content-container {
-    padding-top: 75px;
-    padding-bottom: 75px;
-} */
