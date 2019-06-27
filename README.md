@@ -78,6 +78,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 ## Credits
 
+Assistance with block divider logo - https://stackoverflow.com/questions/22483026/using-an-image-as-a-separator-in-html-and-css
+
 ### Content
 * The text for section Y was copied from the Wikipedia article Z
 
