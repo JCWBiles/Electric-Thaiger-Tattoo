@@ -132,7 +132,10 @@ header {
 
 /*---------------------------------------------------about*/
 
-.about-container {}
+.about-container {
+    font-family: "Nunito", sans-serif;
+    margin: 10px 0;
+}
 
 /*---------------------------------------------------quotes*/
 
