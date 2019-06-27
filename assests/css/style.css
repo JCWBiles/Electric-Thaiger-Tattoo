@@ -111,13 +111,15 @@ header {
 
 /*---------------------------------------------------block dividers*/
 
-.block-divider-container {}
+.block-divider-container {
+}
 
 .block-divider {
-    width: 75px;
+    width: 50px;
     height: 5px;
     border: 0;
     background-color: #07a5a5;
+    margin-top: 30px;
 }
 
 .block-divider--logo {
