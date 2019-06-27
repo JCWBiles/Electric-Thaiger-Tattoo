@@ -130,6 +130,23 @@ header {
     min-height: 80px;
 }
 
+/*---------------------------------------------------section headers*/
+
+.section-header {
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.section-header h2 {
+    font-family: "Raleway", sans-serif;
+    margin-top: 0;
+}
+
+.quotes .section-header {
+    margin-bottom: 25px;
+}
+
 /*---------------------------------------------------about*/
 
 .about-container {
@@ -139,7 +156,9 @@ header {
 
 /*---------------------------------------------------quotes*/
 
-.quotes-container {}
+.quotes-container {
+    font-family: "Nunito", sans-serif;
+}
 
 /*---------------------------------------------------footer*/
 
@@ -175,3 +194,8 @@ i {
 /*---------------------------------------------------next*/
 
 /*---------------------------------------------------next*/
+
+.content-container {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
