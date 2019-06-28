@@ -4,6 +4,11 @@
 /*I have chosen Raleway as it is angular enough to reflect/mirror the lightening bolts but soft enough to welcome you to the site.
 I have chosen Nunito as it is a soft compliment towards Raleway*/
 
+body { 
+    width: 100%; 
+    overflow-x:hidden
+}
+
 /*---------------------------------------------------heading*/
 
 header {
@@ -175,6 +180,14 @@ header {
 .quotes-container {
     font-family: "Nunito", sans-serif;
     margin: 20px 0;
+}
+
+.quotes-container .carousel-indicators li {
+    background-color: black;
+}
+
+.carousel-control-next i {
+    color: black;
 }
 
 /*---------------------------------------------------footer*/
