@@ -190,6 +190,10 @@ header {
     color: black;
 }
 
+.fa-angle-right:before {
+    font-size: xx-large;
+}
+
 /*---------------------------------------------------footer*/
 
 .footer-container {
