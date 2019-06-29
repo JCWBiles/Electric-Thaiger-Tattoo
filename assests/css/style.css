@@ -109,7 +109,6 @@ header {
 .btn--cta {
     font-weight: bold;
     border-radius: 23px;
-    width: 160px;
     font-family: "Raleway", sans-serif;
 }
 
@@ -137,6 +136,7 @@ header {
     border: 0;
     background-color: #07a5a5;
     margin-top: 38px;
+    flex: auto;
 }
 
 .block-divider--logo {
