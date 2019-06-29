@@ -83,6 +83,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 ## Credits
 
 Assistance with block divider logo - https://stackoverflow.com/questions/22483026/using-an-image-as-a-separator-in-html-and-css
+Assistance with Bootstrap carosuel - https://stackoverflow.com/questions/26133618/how-to-stop-bootstrap-carousel-from-autosliding
 
 ### Content
 * The text for section Y was copied from the Wikipedia article Z
