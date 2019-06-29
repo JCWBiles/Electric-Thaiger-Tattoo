@@ -84,6 +84,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 Assistance with block divider logo - https://stackoverflow.com/questions/22483026/using-an-image-as-a-separator-in-html-and-css
 Assistance with Bootstrap carosuel - https://stackoverflow.com/questions/26133618/how-to-stop-bootstrap-carousel-from-autosliding
+Assistance with putting quotes inside the carosuel - http://www.2my4edge.com/2014/12/simple-responsive-quote-style-carousel.html
 
 ### Content
 * The text for section Y was copied from the Wikipedia article Z
