@@ -204,10 +204,7 @@ header {
 /*---------------------------------------------------footer*/
 
 .footer-container {
-    padding-top: 12px;
-}
-
-footer {
+    padding: 20px;
     background-color: #525252;
     color: #fafafa;
     min-height: 120px;
@@ -216,13 +213,21 @@ footer {
     font-weight: 100;
 }
 
-#footer-details {
-    padding: 20px;
-}
-
-i {
+.footer-container i {
     padding-right: 10px;
 }
+
+.footer-container li {
+    font-size: larger
+}
+
+.footer-container ul {
+    margin: 0;
+}
+
+
+
+/*---------------------------------------------------note*/
 
 .Note {
     font-family: "Nunito", sans-serif;
@@ -231,7 +236,5 @@ i {
     text-align: center;
     letter-spacing: 2px;
 }
-
-/*---------------------------------------------------next*/
 
 /*---------------------------------------------------next*/
