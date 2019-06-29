@@ -109,6 +109,8 @@ header {
 .btn--cta {
     font-weight: bold;
     border-radius: 23px;
+    width: 250px;
+    margin: 2px;
     font-family: "Raleway", sans-serif;
 }
 
