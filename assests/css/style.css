@@ -185,6 +185,10 @@ header {
     background-color: black;
 }
 
+.carousel {
+    padding: 25px 60px;
+}
+
 .carousel-control-next i {
     color: black;
 }
