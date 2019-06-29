@@ -4,9 +4,9 @@
 /*I have chosen Raleway as it is angular enough to reflect/mirror the lightening bolts but soft enough to welcome you to the site.
 I have chosen Nunito as it is a soft compliment towards Raleway*/
 
-body { 
-    width: 100%; 
-    overflow-x:hidden
+body {
+    width: 100%;
+    overflow-x: hidden
 }
 
 /*---------------------------------------------------heading*/
@@ -129,8 +129,7 @@ header {
 
 /*---------------------------------------------------block dividers*/
 
-.block-divider-container {
-}
+.block-divider-container {}
 
 .block-divider {
     width: 50px;
@@ -191,6 +190,14 @@ header {
 }
 
 .fa-angle-right:before {
+    font-size: xx-large;
+}
+
+.carousel-control-prev i {
+    color: black;
+}
+
+.fa-angle-left:before {
     font-size: xx-large;
 }
 
