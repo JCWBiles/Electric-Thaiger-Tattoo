@@ -38,10 +38,22 @@ header {
 
 /*---------------------------------------------------callout*/
 
+.ya-jumbotron {
+    background: url("../images/welcome/ya-jumbotron.jpg") no-repeat bottom left fixed;
+}
+
+.piercing-jumbotron {
+    background: url("../images/piercing/piercing-jumbotron.jpg") no-repeat bottom left fixed;
+}
+
+.removal-jumbotron {
+    background: url("../images/removal/removal-jumbotron.jpg") no-repeat bottom left fixed;
+}
+
 .callout-container {
     height: 100vh;
 
-    background: url("../images/welcome/ya-jumbotron.jpg") no-repeat bottom left fixed;
+    
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
