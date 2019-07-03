@@ -188,7 +188,7 @@ header {
     margin: 20px 0;
 }
 
-/*---------------------------------------------------quotes*/
+/*---------------------------------------------------quotes & Q&A*/
 
 .quotes-container {
     font-family: "Nunito", sans-serif;
@@ -205,6 +205,7 @@ header {
 
 .carousel-control-next i {
     color: black;
+    padding-top: 60px;
 }
 
 .fa-angle-right:before {
@@ -213,6 +214,7 @@ header {
 
 .carousel-control-prev i {
     color: black;
+    padding-top: 60px;
 }
 
 .fa-angle-left:before {
