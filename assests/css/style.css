@@ -149,7 +149,7 @@ header {
     height: 5px;
     border: 0;
     background-color: #07a5a5;
-    margin-top: 38px;
+    margin-top: 53px;
     flex: auto;
 }
 
@@ -159,8 +159,8 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: contain;
-    min-height: 80px;
-    min-width: 115px;
+    min-height: 110px;
+    min-width: 150px;
     border-radius: 50%;
 }
 
