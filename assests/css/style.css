@@ -225,6 +225,10 @@ header {
     padding: 15px 15px;
 }
 
+.quotes-container .col-sm-10 {
+    padding: 15px 15px;
+}
+
 /*---------------------------------------------------footer*/
 
 .footer-container {
