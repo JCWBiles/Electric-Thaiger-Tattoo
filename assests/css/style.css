@@ -221,6 +221,10 @@ header {
     font-size: xx-large;
 }
 
+.quotes-container .col-sm-8 {
+    padding: 15px 15px;
+}
+
 /*---------------------------------------------------footer*/
 
 .footer-container {
