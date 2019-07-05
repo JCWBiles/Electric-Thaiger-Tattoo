@@ -43,6 +43,10 @@ header {
 
 /*---------------------------------------------------callout*/
 
+.ya-image-jumbotron {
+    background: url("../images/ya/ya_image_jumbotron.jpg") no-repeat bottom left fixed;
+}
+
 .ya-jumbotron {
     background: url("../images/welcome/ya-jumbotron.jpg") no-repeat bottom left fixed;
 }
@@ -54,6 +58,8 @@ header {
 .removal-jumbotron {
     background: url("../images/removal/removal-jumbotron.jpg") no-repeat bottom left fixed;
 }
+
+
 
 .callout-container {
     height: 100vh;
