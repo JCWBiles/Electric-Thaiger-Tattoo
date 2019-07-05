@@ -191,13 +191,8 @@ header {
     border-radius: 4px;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
-    max-height: 130px;
-    max-width: 130px;
-}
-
-.artists-container .row {
-    align-items: center;
+    background-size: cover;
+    max-width: 100%;
 }
 
 /*---------------------------------------------------about*/
