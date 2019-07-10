@@ -43,6 +43,10 @@ header {
 
 /*---------------------------------------------------callout*/
 
+.vik-image-jumbotron {
+    background: url("../images/vik/vik_image_jumbotron.jpg") no-repeat bottom left fixed;
+}
+
 .joey-image-jumbotron {
     background: url("../images/joey/joey_image_jumbotron.jpg") no-repeat bottom left fixed;
 }
